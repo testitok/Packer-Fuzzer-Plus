@@ -197,7 +197,9 @@
 
   3. 增加了读取url.txt文件，批量发起检测的功能；
 
-## 获取最新版本
+## DownLoad&获取最新版本
 
-**[点我获取最新版：https://note.mowen.cn/note-intro/?noteUuid=MSdbowxbuFvo11224Ms1u](https://note.mowen.cn/note-intro/?noteUuid=MSdbowxbuFvo11224Ms1u)**
+**[国内用户：点我获取最新版：https://note.mowen.cn/note-intro/?noteUuid=MSdbowxbuFvo11224Ms1u](https://note.mowen.cn/note-intro/?noteUuid=MSdbowxbuFvo11224Ms1u)**
+
+**[Overseas users click me: https://ko-fi.com/s/903a73abf3](https://ko-fi.com/s/903a73abf3)**
 
